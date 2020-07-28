@@ -1,0 +1,52 @@
+{
+  "logs": [
+    {
+      "id": 1,
+      "message": "Changed Hard Drive on Workstation 005",
+      "attention": false,
+      "tech": "Sam Smith",
+      "date": "2020-07-28T12:02:45.551Z"
+    },
+    {
+      "id": 2,
+      "message": "Workstation 007 working",
+      "attention": false,
+      "tech": "Sam Kolder",
+      "date": "2020-07-27T05:57:33.636Z"
+    },
+    {
+      "id": 3,
+      "message": "Redux is a predictable state container for JavaScript apps",
+      "attention": true,
+      "tech": "Sam Kolder",
+      "date": "2020-07-28T12:06:29.222Z"
+    }
+  ],
+  "techs": [
+    {
+      "id": 1,
+      "firstname": "Sam",
+      "lastname": "Smith"
+    },
+    {
+      "id": 2,
+      "firstname": "John",
+      "lastname": "Doe"
+    },
+    {
+      "id": 3,
+      "firstname": "Stone",
+      "lastname": "Cold"
+    },
+    {
+      "firstname": "Sam",
+      "lastname": "Kolder",
+      "id": 4
+    },
+    {
+      "firstname": "Sushant",
+      "lastname": " ",
+      "id": 7
+    }
+  ]
+}
